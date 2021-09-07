@@ -696,12 +696,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1426380300}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 657bc4bd12c426f4b9c25a729d91e85e, type: 3}
+  m_Script: {fileID: 11500000, guid: 3ed4e44e1e1d6a24a8adb512c69f957a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveUp: 273
-  moveDown: 274
-  speed: 10
+  speed: 5
   boundY: 2.25
 --- !u!50 &1426380302
 Rigidbody2D:
